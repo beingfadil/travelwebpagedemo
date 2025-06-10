@@ -275,7 +275,7 @@ button:hover{
     height: 10px;
 }
 .places::-webkit-scrollbar-thumb{
-    background:orange;
+    background:aliceblue;
     border-radius: 5px;
 
 }
@@ -331,7 +331,7 @@ button:hover{
     height: 10px;
 }
 .place::-webkit-scrollbar-thumb{
-    background:orange;
+    background:aliceblue;
     border-radius: 5px;
 
 }
