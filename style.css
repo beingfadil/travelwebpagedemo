@@ -249,7 +249,7 @@ button:hover{
     transform: scale(1.05);
 }
 .india{
-    margin-left: 120px;
+    margin-left: 100px;
     width: 90%;
     margin-top: 130px;
     overflow: hidden;
@@ -305,7 +305,7 @@ button:hover{
 
 .foreign{
 
-     margin-left: 120px;
+     margin-left: 100px;
     width: 90%;
     margin-top: 130px;
     overflow: hidden;
@@ -405,7 +405,7 @@ button:hover{
     align-items: center;
     padding: 20px;
     justify-content: space-evenly;
-    background-color: rgb(41, 156, 205);
+    background-color: rgb(109, 109, 109);
     opacity: 75%;
     border-radius: 20px;
     width: 1100px;
@@ -461,9 +461,12 @@ button:hover{
     text-align: center;
     border-radius: 7px;
     padding: 7px;
-    background-color: rgb(41, 156, 205);
+    background-color:  rgb(109, 109, 109);;
     border:  solid 0.5px white;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+::placeholder{
+    color: white;
 }
 #submit{
     padding:8px ;
